@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheHelix.aternos.me",
-    "port": 19696,
+    "ip": "GatesOfAsgard.aternos.me",
+    "port": 50581,
     "version": "1.20.1",
     "try-creative": false
   },
